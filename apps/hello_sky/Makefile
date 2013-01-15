@@ -1,0 +1,6 @@
+APPNAME = hello_sky
+PRIORITY = SCHED_PRIORITY_DEFAULT
+STACKSIZE = 1024
+
+include $(APPDIR)/mk/app.mk
+

@@ -116,3 +116,5 @@ endif
 CONFIGURED_APPS += examples/cdcacm
 #endif
 #endif
+
+CONFIGURED_APPS += hello_sky
